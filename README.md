@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @MukhammedAyyub
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning AI
+- <> I'm learning Web Developing now
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muhammadayubnabijonov@gmail.com
-- 😄 Pronouns: Uzbek
+- 😄 Pronouns: he/his/him
 - ⚡ Fun fact: ...
 
 <!---
